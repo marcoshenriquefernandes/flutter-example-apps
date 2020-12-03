@@ -19,5 +19,5 @@ Entusiasta com o desenvolvimento mobile e aprofundando meus conhecimentos nessas
 **5 - Buscador de GIFs (search_giphy_app)**
   - Aplicativo para demonstrar interação com API para busca dos gifs e permite compartilhar por e-mail, whatsapp etc...
   
-**5 - Agenda de Contatos (contacts_app)**
-  - Aplicativo para demonstrar interação com o Banco de dados SQFlite.
+**6 - Agenda de Contatos (contacts_app)**
+  - Aplicativo para demonstrar interação com o Banco de dados SQFlite e interação com a câmera do celular.
