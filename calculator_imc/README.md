@@ -1,6 +1,18 @@
-# calculator_imc
+# Calculadora de IMC
 
-Aplicativo para calcular IMC
+Aplicativo para calcular IMC, consiste em dois campos de entradas do tipo number(double), um botão para ação de calcular, um texto para informar o status dos cálculos e um botão para refresh para limpar a pagina.
+
+![Calculadora de IMC](../images/calculatorimc_img.png)
+
+### Widgets exercitados
+- Scaffold
+- AppBar
+- SingleChildScrollView
+- RaisedButton
+- Forms
+- GlobalKey
+- TextField
+- TextFormField
 
 ## Getting Started
 
