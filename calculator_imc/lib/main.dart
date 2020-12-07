@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MaterialApp(home: Home()));
+  runApp(MaterialApp(
+      home: Home(),
+      debugShowCheckedModeBanner: false,
+  ));
 }
 
 class Home extends StatefulWidget {
@@ -70,7 +73,7 @@ class _HomeState extends State<Home> {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Icon(
-                Icons.person_outline,
+                Icons.accessibility,
                 size: 120.0,
                 color: Colors.purple[400],
               ),

@@ -18,5 +18,6 @@ void main() {
           hintStyle: TextStyle(color: Colors.white),
         )
     ),
+    debugShowCheckedModeBanner: false,
   ));
 }

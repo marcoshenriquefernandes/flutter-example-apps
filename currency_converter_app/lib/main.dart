@@ -27,6 +27,7 @@ void main() async {
         hintStyle: TextStyle(color: Colors.amber),
       )
     ),
+    debugShowCheckedModeBanner: false,
   ));
 }
 

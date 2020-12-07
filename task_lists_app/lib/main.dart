@@ -7,6 +7,7 @@ import 'package:path_provider/path_provider.dart';
 void main() {
   runApp( MaterialApp(
     home: Home(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
