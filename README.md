@@ -1,23 +1,23 @@
 ## Apresentação
 
-Entusiasta com o desenvolvimento mobile e aprofundando meus conhecimentos nessas tecnologias, apresento meu portfólio com alguns aplicativos desenvolvidos utilizando linguagem de programação Dart e seu framework Flutter.
+Aprofundando meus conhecimentos nessas novas tecnologias Dart e Flutter, apresento meu portfólio com alguns aplicativos desenvolvidos, ainda estou em processo de estudo e a medida que for implementado novos exemplos serão incluídos neste repositório.
 
 ## Aplicativos
 
 **1 - Contador de pessoas** ([people_counter_app](people_counter_app))
-  - Aplicativo para demonstrar manipulação com texto em tela, aplicação de imagem e alteação de estado.
+  - Aplicativo para demonstrar manipulação com texto, aplicação de imagem e alteação de estado.
      
 **2 - Calculadora de IMC** ([calculator_imc](calculator_imc))
-  - Aplicativo para demonstrar a manipulação com entrada de dados por meio de campo de texto, ações de botões para calculos e apresentação de resultados.
+  - Aplicativo para demonstrar a manipulação com entrada de dados, ações com botões para cálculos e apresentação de resultados.
 
 **3 - Conversor de Moedas** ([currency_converter_app](currency_converter_app))
   - Aplicativo para demonstrar a manipulação de arquivos Json, interação com API que retorna valores de cotação real e atualizados, além de resultados dinâmicos em tela.
 
 **4 - Lista de Tarefas** ([task_lists_app](task_lists_app))
-  - Aplicativo para demonstrar a manipulação de lista, sendo este um pequeno CRUD onde os dados são armazenados arquivo Json.
+  - Aplicativo para demonstrar a manipulação com lista, sendo este um pequeno CRUD onde os dados são armazenados em arquivo Json.
   
 **5 - Buscador de GIFs** ([search_giphy_app](search_giphy_app))
-  - Aplicativo para demonstrar interação com API para busca dos gifs e permite compartilhar por e-mail, whatsapp etc...
+  - Aplicativo para demonstrar interação com API para busca dos gifs e permite compartilhar gifs por meio de outros apps como gmail, whatsapp etc...
   
 **6 - Agenda de Contatos** ([contacts_app](contacts_app))
-  - Aplicativo para demonstrar interação com o Banco de dados SQFlite e interação com a câmera do celular.
+  - Aplicativo para demonstrar interação com o Banco de dados SQFlite, interação com a câmera e ação de um botão para abertura do app telefone.
