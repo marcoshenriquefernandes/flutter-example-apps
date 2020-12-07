@@ -2,7 +2,7 @@
 
 Ao iniciar o aplicativo um grid é carregado com os vinte gifs mais acessados da API (api.giphy), possui um campo de texto e um botão para realização de  uma busca específica. O app tem a capacidade de compartilhar um gif entre outros aplicativos instalados no dispositivo como por exemplo Whatsaap, Gmail, Driver, Facebook entre outros, para isso, basta segurar o gif selecionado ou carregar o gif em uma segunda tela apenas clicando no gif escolhido e, em seguida clicar no botão de compartilhamento.
 
-![Contador de Pessoas](../images/search_gif_img.png)
+![Buscador de gifs](../images/search_gif_img.png)
 
 ### Widgets exercitados
 - Navigator
