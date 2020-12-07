@@ -1,8 +1,20 @@
-# search_giphy_app
+### Buscador de gifs
 
-A new Flutter application.
+Ao iniciar o aplicativo um grid é carregado com os vinte gifs mais acessados da API (api.giphy), possui um campo de texto e um botão para realização de  uma busca específica. O app tem a capacidade de compartilhar um gif entre outro aplicativos instalados no dispositivo com por exemplo Whatsaap, gmail, Driver, Facebook entre outros, para isso, basta segurar o gif selecionado ou carregar o gif em uma segunda tela apenas clicando no gif escolhido em seguida clicar no botão de compartilhamento.
 
-## Getting Started
+![Contador de Pessoas](../images/search_gif_img.png)
+
+### Widgets exercitados
+- Navigator
+- GridView
+- Image Network
+- GestureDetector
+- ProgressIndicator
+- Share
+- FadeInImage
+- Plugins
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
