@@ -4,9 +4,9 @@ Entusiasta com o desenvolvimento mobile e aprofundando meus conhecimentos nessas
 
 ## Aplicativos
 
-**1 - Contador de pessoas (people_counter_app)**
+**1 - Contador de pessoas** ([people_counter_app](people_counter_app))
   - Aplicativo para demonstrar manipulação com texto em tela, aplicação de imagem e alteação de estado.
-  
+     
 **2 - Calculadora de IMC (calculator_imc)**
   - Aplicativo para demonstrar a manipulação com entrada de dados por meio de campo de texto, ações de botões para calculos e apresentação de resultados.
 
