@@ -2,8 +2,8 @@
 
 Aplicativo consiste em um campo para adicionar tarefas e um botão para ação de adicionar formando, assim, uma lista de tarefas. Cada item da lista possui um checkbox para informar se a tarefa foi concluída e um ícone para informar o status de concluído. Essa lista fica armazenado em arquivo Json no dispositivo, então se fechar o aplicativo as informações serão preservadas. Para apagar uma tarefa, basta arrastar o item da esquerda para a direita. Além disso o app possui, ainda, uma funcionalidade para ordenar os itens checados e não checados para isso é só arrastar de cima para baixo.
 
-![Contador de Pessoas](../images/task_list_img1.png)
-![Contador de Pessoas](../images/task_list_img2.png)
+![Lista de Tarefas](../images/task_list_img1.png)
+![Lista de Tarefas](../images/task_list_img2.png)
 
 ### Widgets e conceitos exercitados
 - ListView
