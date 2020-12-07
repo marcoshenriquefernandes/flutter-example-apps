@@ -17,14 +17,15 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   int _people = 0;
-  String _infoText = 'Pode entrar!';
+  String _infoText = 'Restaurante vazio';
 
   void _changePeople(int count) {
     setState(() {
       _people += count;
 
-      if(_people < 0) {
-        _infoText = 'Mundo invertido';
+      if(_people <= 0) {
+        _people = 0;
+        _infoText = 'Restaurante vazio';
       } else if(_people <= 10) {
         _infoText = 'Pode entrar';
       } else {
