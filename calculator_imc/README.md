@@ -1,4 +1,4 @@
-# Calculadora de IMC
+### Calculadora de IMC
 
 Aplicativo para calcular IMC, consiste em dois campos de entradas do tipo number(double), um botão para ação de calcular, um texto para informar o status dos cálculos e um botão para refresh para limpar a pagina.
 
@@ -14,7 +14,7 @@ Aplicativo para calcular IMC, consiste em dois campos de entradas do tipo number
 - TextField
 - TextFormField
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
