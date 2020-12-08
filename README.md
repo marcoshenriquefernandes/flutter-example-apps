@@ -1,6 +1,6 @@
 ## Apresentação
 
-Aprofundando meus conhecimentos nessas novas tecnologias Dart e Flutter, apresento meu portfólio com alguns aplicativos desenvolvidos, ainda estou em processo de estudo e a medida que for implementado novos exemplos serão incluídos neste repositório.
+Aprofundando meus conhecimentos nessas novas tecnologias Dart e Flutter, apresento meu portfólio com alguns aplicativos desenvolvidos. Continuo em precesso de evolução nos meus estudos, a medida que for implementado novos exemplos serão incluídos neste repositório.
 
 ## Aplicativos
 
