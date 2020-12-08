@@ -1,6 +1,6 @@
 ### Conversor de Moedas
 
-Aplicativo para calcular valores monetários em real, dólar e euro, consiste em três campos de entradas para cada moeda, sendo que em qualquer campo que informar um valor os cálculos são realizados automaticamente nos demais campos. Os valores base para realização dos cálculos são recuperado através da API publica (api.hgbrasil).
+Aplicativo para calcular valores monetários em real, dólar e euro. Consiste em três campos de entradas para cada moeda. Em qualquer campo que informar um valor, os cálculos serão realizados automaticamente nos demais campos. Os valores base para realização dos cálculos são recuperado através da API pública (api.hgbrasil).
 
 ![Conversor de Moedas](../images/currency_img.png)
 
