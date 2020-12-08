@@ -1,8 +1,8 @@
 ### Contatos
 
-Aplicativo, inicialmente, consiste em um botão flutuante localizado no canto inferior direto para adicionar um novo contato, sendo aberta um nova tela com três campos de entrada Nome, Email e Telefone, uma imagem padrão a qual poderá ser alterada usando a própria câmera do dispositivo e um botão flutuante para salvar, esse procedimento formará uma lista de contatos na tela principal.
+O aplicativo consiste em uma lista de contatos. A tela inicial possui um botão flutuante localizado no canto inferior direito. Ao clicar nesse botão, uma nova tela é aberta com três campos de entrada: Nome, Email e Telefone. Também é carregado um campo para inserir uma imagem padrão. Esta imagem poderá ser alterada usando a própria câmera do dispositivo. Após preencher as informações, o usuário poderá clicar no botão flutuante para salvar os dados. A tela inicial será atualizada com o novo contato adicionado.
 
-Um menu inferior com botões para ligar, editar e excluir um contato, também estão presentes, ao clicar em ligar será redirecionado automaticamente para o app telefone do dispositivo, editar retornará a tela de inclusão de dados e excluir o contato será excluído, porem um popup para decidir  se deseja realmente excluir aquele contato será aberto. Além disso, existe um menu no canto superior direito para ordenar a lista de A – Z e de Z – A.
+O app também conta com um menu inferior com opções para ligar, editar e excluir um contato. Ao clicar em "Ligar", o usuário será redirecionado automaticamente para o app telefone do dispositivo. Se selecionada a opção "Editar", o app retornará a tela de inclusão de dados para que o usuário possa alterar os dados que deseja. Se escolhida a opção "Excluir", um popup para confirmação de exclusão será exibido e o usuário poderá excluir ou cancelar a exclusão. Além disso, existe um menu no canto superior direito para ordenar a lista de A – Z e de Z – A.
 
 Todas essas informações são armazenada em um banco de dados SQFlite.
 
