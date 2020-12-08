@@ -1,6 +1,6 @@
 ### Buscador de gifs
 
-Ao iniciar o aplicativo, um grid é carregado com os vinte gifs mais acessados da API (api.giphy). O app possui um campo de texto e um botão para realização de uma busca específica. Ele também possui capacidade de compartilhar um gif entre outros aplicativos instalados no dispositivo. Exemplo: Whatsaap, Gmail, Driver, Facebook entre outros. Para compartilhar, basta segurar o gif selecionado ou carregar o gif em uma segunda tela apenas clicando no gif escolhido, em seguida clicar no botão de compartilhamento.
+<p align="justify"> Ao iniciar o aplicativo, um grid é carregado com os vinte gifs mais acessados da API (api.giphy). O app possui um campo de texto e um botão para realização de uma busca específica. Ele também possui capacidade de compartilhar um gif entre outros aplicativos instalados no dispositivo. Exemplo: Whatsaap, Gmail, Driver, Facebook entre outros. Para compartilhar, basta segurar o gif selecionado ou carregar o gif em uma segunda tela apenas clicando no gif escolhido, em seguida clicar no botão de compartilhamento.</p>
 
 ![Buscador de gifs](../images/search_gif_img.png)
 
