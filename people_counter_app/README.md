@@ -1,6 +1,6 @@
 ### Contador de Pessoas
 
-Ao iniciar o aplicativo, a tela será aberta com uma imagem de fundo, um Texto que informa a quantidade de pessoas, dois botões de incremento/decremento e um texto informando o status. Quando a quantidade de pessoas atingir o valor 11 o texto de status será alterado para “lotado”, quando for igual a 0, será alterado para “Restaurante vazio” e quando ficar entre 0 e 10 o status terá o valor de "Pode entrar!".
+<p align="justify"> Ao iniciar o aplicativo, a tela será aberta com uma imagem de fundo, um Texto que informa a quantidade de pessoas, dois botões de incremento/decremento e um texto informando o status. Quando a quantidade de pessoas atingir o valor 11 o texto de status será alterado para “lotado”, quando for igual a 0, será alterado para “Restaurante vazio” e quando ficar entre 0 e 10 o status terá o valor de "Pode entrar!". </p>
 
 ![Contador de Pessoas](../images/people_counter_img.png)
 
